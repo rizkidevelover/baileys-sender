@@ -1,0 +1,13 @@
+{
+  "name": "baileys-sender",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.16",
+    "pino": "^9.0.0"
+  }
+}
